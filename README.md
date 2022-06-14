@@ -4,7 +4,7 @@
 
 Código fonte do projeto criado na live #02, ensinando como utilizar recyclerview com multiplas viws diferentes com Kotlin
 
-**Para assitir a AULA COMPLETA, [clique aqui]([https://www.youtube.com/watch?v=TP4U3ejoC98](https://www.youtube.com/watch?v=lid3xwjEbOU&ab_channel=KaiqueOcanha-Android))**
+**Para assitir a AULA COMPLETA, [clique aqui](https://www.youtube.com/watch?v=lid3xwjEbOU&ab_channel=KaiqueOcanha-Android)**
 
 Não esqueça de deixar sua estrela no repositório se esse código te ajudou!
 
